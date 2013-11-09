@@ -5,4 +5,5 @@ function newfunction($var) {
 	return $var;
 }
 
-// new awesome commit
+
+// final commit
