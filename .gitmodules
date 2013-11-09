@@ -1,0 +1,3 @@
+[submodule "WP-Settings-API-Demo"]
+	path = WP-Settings-API-Demo
+	url = git@github.com:leonmagee/WP-Settings-API-Demo.git
