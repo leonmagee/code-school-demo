@@ -11,6 +11,7 @@ function newfunction($var) {
 	return $var;
 }
 
+EDIT 2
 
 // final commit
 
