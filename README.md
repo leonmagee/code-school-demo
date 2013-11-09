@@ -5,4 +5,4 @@ function newfunction($var) {
 	return $var;
 }
 
-// new comment
+// new awesome commit
