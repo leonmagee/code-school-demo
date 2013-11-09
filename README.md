@@ -6,4 +6,4 @@ function newfunction($var) {
 	return $var;
 }
 
-// OLD COMMENT
+COMMENT DELETED!
