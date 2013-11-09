@@ -7,3 +7,7 @@ function newfunction($var) {
 
 
 // final commit
+
+// here is another line
+
+// and another line
